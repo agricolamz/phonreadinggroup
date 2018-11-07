@@ -1,0 +1,11 @@
+---
+title: "о Pisoni D., Remez R. (2005) The Handbook of Speech Perception"
+author: "И. Астафьева, Г. Мороз"
+date: "2018.11.08"
+output: html_document
+---
+
+# Robert E. Remez, Perceptual Organization of Speech
+# Lawrence D. Rosenblum, Primacy of Multimodal Speech Perception
+# Lynne E. Bernstein, Phonetic Processing by the Speech Perceiving Brain
+# Dennis L. Molfese, et al. Event-Related Evoked Potentials (ERPs) in Speech Perception
