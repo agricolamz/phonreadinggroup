@@ -1,8 +1,10 @@
 ---
-title: "о Pisoni D., Remez R. (2005) The Handbook of Speech Perception"
+title: "Pisoni D., Remez R. (2005) The Handbook of Speech Perception: Part I Sensing Speech"
 author: "И. Астафьева, Г. Мороз"
 date: "2018.11.08"
-output: html_document
+output: 
+  html_document:
+    number_sections: true
 ---
 
 # Robert E. Remez, Perceptual Organization of Speech
