@@ -9,6 +9,8 @@ output:
 
 # Kenneth N. Stevens, Features in Speech Perception and Lexical Access
 
+[Надин конспект](https://github.com/agricolamz/phonreadinggroup/raw/master/2018.11.28/Chapter6_handout.pdf)
+
 Бинарные признаки как в Jakobson, Trubetzkoy > Jakobson, Halle, Fant > Halle, Chomsky.
 
 > Indirect evidence for the role of distinctive features in speech perception comes
@@ -31,3 +33,5 @@ separate channels are involved in the perception of the different features.
 # Edward Flemming, Speech Perception and Phonological Contrast
 
 # Lawrence J. Raphael, Acoustic Cues to the Perception of Segmental Phonemes
+
+[Конспект Виолы](https://github.com/agricolamz/phonreadinggroup/raw/master/2018.11.28/handout-8.pdf)
