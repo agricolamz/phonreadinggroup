@@ -3,5 +3,5 @@ title: "Phon reading group"
 output: html_document
 ---
 
-[2018.11.08 И. Астафьева, Г. Мороз о Pisoni D., Remez R. (2005) The Handbook of Speech Perception](https://agricolamz.github.io/phonreadinggroup/2018.11.08_Astafieva_Moroz.html)
-[2018.11.29 Н. Макеева, В. Иванова, Г. Мороз о Pisoni D., Remez R. (2005) The Handbook of Speech Perception](https://agricolamz.github.io/phonreadinggroup/2018.11.29_Makeeva,_Ivanova,_Moroz.html)
+* [2018.11.08 И. Астафьева, Г. Мороз о Pisoni D., Remez R. (2005) The Handbook of Speech Perception](https://agricolamz.github.io/phonreadinggroup/2018.11.08_Astafieva_Moroz.html)
+* [2018.11.29 Н. Макеева, В. Иванова, Г. Мороз о Pisoni D., Remez R. (2005) The Handbook of Speech Perception](https://agricolamz.github.io/phonreadinggroup/2018.11.29_Makeeva,_Ivanova,_Moroz.html)
